@@ -27,7 +27,8 @@
     "tokens",
     "performance",
     "meter",
-    "solid-js"
+    "solid-js",
+    "subagent"
   ],
   "author": "williamcr01",
   "license": "MIT",
